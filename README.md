@@ -2,8 +2,7 @@
 The purpose of this case study is to analyze the data of a fictional company and create a recommended solution for their business needs in order to showcase my data analysis skills.
 
 A bike-share company in Chicago named Cyclistic wants to design marketing strategies aimed at converting casual riders into annual members. In order to
-do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
-casual riders would buy a membership, and how digital media could affect their marketing tactics.
+do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ.
 
 **Python and Jupyter Notebook was used for the data analysis process**
 
