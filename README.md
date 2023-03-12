@@ -35,6 +35,7 @@ do that, however, the marketing analyst team needs to better understand how annu
   * The chart shows that the number of rides between member and casual riders from Monday to Friday have a noticable difference while Saturday and Sunday shows almost a similar number of rides. 
 ## 6. Conclusion and Recommendations
   * Based on the number of rides and average duration of each ride by casual and member riders, member riders are able to utilize more of the bike-sharing system even though they use it for a short time compared to casual riders who use the bikes for a longer time but don't use it as often as it is cheaper to use the day pass for longer but not frequent rides.
+  * Data on how much was charged for each ride can be used to create further analysis.
   ### Recommendations
   * The bike-share company can give a 1 week free trial of the annual membership for casual riders to try out which may influence the casual riders to continue with the membership.
   * The bike-share company can increase the time limit of their bike usage for annual memberships so casual riders will be encouraged apply for the membership.
