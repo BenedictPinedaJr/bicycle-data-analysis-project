@@ -22,9 +22,21 @@ casual riders would buy a membership, and how digital media could affect their m
   ### Manipulation
   * Added the **ride_length** and **day_of_week** columns
   * Combined all dataframes from March 2022 to February 2023 into a single dataframe
+  * Created a summarized dataframe containing the **number_of_rides** and **average_duration** columns
 
 ## 4. Summary of Analysis
-
+  * Average ride duration for a casual rider is significantly higher than a member rider's ride duration
+  * The number of rides for a member rider is signifcantly higher than a casual rider from Monday to Friday
+  * The number of rides for both a member and a casual rider are almost the same on a Saturday and Sunday
 ## 5. Visualization
+  ![Image](./data/average_ride_duration.png)
+  * The chart shows that the average duration of a ride increases on a Saturday and Sunday while the ride duration remains almost stagnant for member riders and slight increases from Monday to Friday
 
-## 6. Recommendations
+  ![Image](./data/number_of_rides.png)
+  * The chart shows that the number of rides between member and casual riders from Monday to Friday have a noticable difference while Saturday and Sunday shows almost a similar number of rides. 
+## 6. Conclusion and Recommendations
+  * Based on the number of rides and average duration of each ride by casual and member riders, member riders are able to utilize more of the bike-sharing system even though they use it for a short time compared to casual riders who use the bikes for a longer time but don't use it as often as it is cheaper to use the day pass for longer but not frequent rides.
+  ### Recommendations
+  * The bike-share company can give a 1 week free trial of the annual membership for casual riders to try out which may influence the casual riders to continue with the membership.
+  * The bike-share company can increase the time limit of their bike usage for annual memberships so casual riders will be encouraged apply for the membership.
+  * The bike-share company can promote on how much casual riders can save when they are part of the annual membership especially if they are a frequent user. 
