@@ -21,7 +21,7 @@ do that, however, the marketing analyst team needs to better understand how annu
   ### Manipulation
   * Added the **ride_length** and **day_of_week** columns
   * Combined all dataframes from March 2022 to February 2023 into a single dataframe
-  * Created a summarized dataframe containing the **number_of_rides** and **average_duration** columns
+  * Created a summarized dataframe containing the **number_of_rides**,**average_duration**,**max_duration**, and **median_duration** columns
 
 ## 4. Summary of Analysis
   * Average ride duration for a casual rider is significantly higher than a member rider's ride duration
